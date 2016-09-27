@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="GameUI.Views.Copyright"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GameUI.Views"
+             mc:Ignorable="d" 
+             >
+    <Grid>
+        <TextBlock 
+            TextAlignment="Center" 
+            Foreground="White">
+            Copyright ©  Ononeze 2016.And all media © respective owners.
+        </TextBlock>
+            
+    </Grid>
+</UserControl>
